@@ -1,5 +1,5 @@
 # ruler
 A little PCB ruler/straight edge, because the other ones suck. 4 choc footprints, and a PM for double usefulness.
 ![image](https://user-images.githubusercontent.com/55664712/133304463-12413229-4e23-4e04-afe7-64c46d87ef37.png)
-I would get it, but it's like $100 for 5 pink ones. I guess I'll just stick it out and wait for my other pcbs to arrive/for pink to become cheaper.
+I'm procrastinating ordering it. In the meantime, y'all are welcome to maybe get some for yourselves.
 I'm just gonna put the PCB files here, and write firmware later.
